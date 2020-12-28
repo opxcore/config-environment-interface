@@ -1,0 +1,22 @@
+{
+  "name": "opxcore/config-environment-interface",
+  "description": "The OpxCore config environment interface.",
+  "keywords": [
+    "opxcore",
+    "config",
+    "environment",
+    "interface"
+  ],
+  "license": "MIT",
+  "type": "library",
+  "require": {
+    "php": "^7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "OpxCore\\Config\\Interfaces\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
