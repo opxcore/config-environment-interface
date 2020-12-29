@@ -9,6 +9,12 @@
   ],
   "license": "MIT",
   "type": "library",
+  "authors": [
+    {
+      "name": "Lozovoy Vyacheslav",
+      "email": "opxcore@gmail.com"
+    }
+  ],
   "require": {
     "php": "^7.4"
   },
