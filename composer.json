@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-4": {
-      "OpxCore\\Config\\Interfaces\\": "src/"
+      "OpxCore\\Config\\": "src/"
     }
   },
   "minimum-stability": "dev",
