@@ -50,4 +50,11 @@ interface EnvironmentInterface
      * @return  void
      */
     public function unset(string $key): void;
+
+    /**
+     * Gets all environment.
+     *
+     * @return  array
+     */
+    public static function getEnvironment(): array;
 }
