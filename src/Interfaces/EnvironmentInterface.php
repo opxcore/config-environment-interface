@@ -20,5 +20,5 @@ interface EnvironmentInterface
      *
      * @return  array|bool|string|null|mixed
      */
-    public static function get(string $key, $default = null);
+    public function get(string $key, $default = null);
 }
